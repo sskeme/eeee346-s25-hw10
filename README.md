@@ -37,6 +37,8 @@ Below is a description of each class and its required functionality:
     * Already implemented.
     * Loops through the array and prints each element.
    
+Hint: In `absoluteAll` and `powerAll`, you may need to create objects from `Absolute<T>` and `Power<T>`, respectively, and call them as regular functions.
+
 A specific data type is passed from `main` (int or double) to `MathUtility`, and then further to the `Absolute` and `Power` functors.
 
 
